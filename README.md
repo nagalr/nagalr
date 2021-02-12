@@ -93,7 +93,7 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 
-<a href="https://nagalr.github.io/code/programming/python/algorithm/machine-learning/ai/ml/pca/kaggle/supervisedlearning/2019/03/25/TMDB-Box-Office-Prediction.html">Data-Science Challenge</a>
+<a href="https://nagalr.github.io/code/programming/python/algorithm/machine-learning/ai/ml/pca/kaggle/supervisedlearning/2019/03/25/TMDB-Box-Office-Prediction.html">Data-Science Kaggle Competition Challenge</a>
 
 
 <a href="https://nagalr.github.io/mnist/code/programming/python/algorithm/machine-learning/ai/ml/pca/2019/02/27/MNIST-Database.html">The MNIST Database of Handwritten Digits</a>
